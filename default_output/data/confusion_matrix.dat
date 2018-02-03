@@ -1,0 +1,12 @@
+\begin{tabularx}{\textwidth}{r|XXXXXXXXX}
+{\Large{Species ID}}&\rotatebox[origin=l]{90}{ACRU}&\rotatebox[origin=l]{90}{LIST}&\rotatebox[origin=l]{90}{OTHER}&\rotatebox[origin=l]{90}{PIEL}&\rotatebox[origin=l]{90}{PIPA}&\rotatebox[origin=l]{90}{PITA}&\rotatebox[origin=l]{90}{QUGE}&\rotatebox[origin=l]{90}{QULA}&\rotatebox[origin=l]{90}{QUNI}\\\hline
+ACRU&\textbf{0.04}&0.02&0.06&0.04&1.65&0.12&0.08&0.45&0.02\\
+LIST&0.03&\textbf{0.01}&0.04&0.03&1.10&0.08&0.05&0.30&0.01\\
+OTHER&0.05&0.03&\textbf{0.08}&0.05&2.20&0.16&0.10&0.60&0.03\\
+PIEL&0.03&0.02&0.05&\textbf{0.03}&1.38&0.10&0.07&0.38&0.02\\
+PIPA&1.29&0.65&1.94&1.29&\textbf{54.26}&3.88&2.58&14.86&0.65\\
+PITA&0.09&0.05&0.14&0.09&3.86&\textbf{0.28}&0.18&1.06&0.05\\
+QUGE&0.08&0.04&0.12&0.08&3.30&0.24&\textbf{0.16}&0.90&0.04\\
+QULA&0.35&0.18&0.53&0.35&14.87&1.06&0.71&\textbf{4.07}&0.18\\
+QUNI&0.03&0.02&0.05&0.03&1.38&0.10&0.07&0.38&\textbf{0.02}\\
+\end{tabularx}

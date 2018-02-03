@@ -1,0 +1,5 @@
+\begin{tabularx}{0.9\textwidth}{XXX}
+\textbf{Area (Square Meters)} & \textbf{Positive} & \textbf{Negative}\\
+\textbf{True} & 684.3 & -\\
+\textbf{False} & 1916.2 & 2631.6
+\end{tabularx}
